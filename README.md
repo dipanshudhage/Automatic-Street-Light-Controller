@@ -24,7 +24,7 @@ Originally built as a **December 2024 mini-project** on a perfboard, this reposi
 | `Q1` | NPN Transistor | `BC547` | 1 |
 | `D1` | Flyback Diode | `1N4007` | 1 |
 | `R5` | Photoresistor | 5mm LDR | 1 |
-| `RV1` | Preset Trimpot | 10kΩ (`104` in prototype) | 1 |
+| `RV1` | Preset Trimpot | 10kΩ | 1 |
 | `R6` | Resistor | 1kΩ | 1 |
 | `R3`, `R4` | Resistors | 470Ω | 2 |
 | `D2`, `D4` | LEDs | 5mm Red (`D2`) & 5mm Green (`D4`) | 2 |
