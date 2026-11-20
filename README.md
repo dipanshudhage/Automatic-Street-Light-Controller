@@ -20,7 +20,7 @@ Originally built as a **December 2024 mini-project** on a perfboard, this reposi
 
 | Designator | Component | Value / Part | Qty |
 | :--- | :--- | :--- | :---: |
-| `K1` | SPDT Relay | 5V DC Relay (`JQC-3FC(T73)DC5V` / `SRD-05VDC-SL-C`) | 1 |
+| `K1` | SPDT Relay | 5V DC Relay (`SRD-05VDC-SL-C`) | 1 |
 | `Q1` | NPN Transistor | `BC547` | 1 |
 | `D1` | Flyback Diode | `1N4007` | 1 |
 | `R5` | Photoresistor | 5mm LDR | 1 |
