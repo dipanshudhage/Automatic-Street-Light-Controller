@@ -51,7 +51,7 @@ Originally built as a **December 2024 mini-project** on a perfboard, this reposi
 ### 3D Renders
 | Top View | Bottom View |
 | :---: | :---: |
-| ![3D Top View](pcb-design/3d_top.png) | ![3D Bottom View](pcb-design/3d_bottom.png) |
+| ![3D Top View](pcb-design/3d_Top.png) | ![3D Bottom View](pcb-design/3d_Bottom.png) |
 
 *3D CAD model available at [`pcb-design/Automatic-Street-Light-Controller.step`](pcb-design/Automatic-Street-Light-Controller.step).*
 
